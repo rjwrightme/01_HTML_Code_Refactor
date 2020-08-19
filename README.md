@@ -3,10 +3,11 @@
 This homework assignment required me to take a simple single page website and improve upon its accessibility. As such, I've adjusted the following:
 
 ```
-1. Updated generic div tags where appropriate to use more semantic HTML5 tags
+1. Updated generic <div> tags where appropriate to use more semantic HTML5 tags
 2. Added meaningful alt attributes to all image tags
 3. Fixed a broken link in the navigation
 4. Added a title tag with relevant page title
+5. Added a meta description for search engines
 ```
 
 ## Acceptance Criteria
